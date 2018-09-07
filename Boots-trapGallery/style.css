@@ -1,0 +1,42 @@
+body{
+		background: #A4A4A4;
+}
+.navbar-custom{
+	background-color: #00FFFF; 	
+}
+.jumbotron{
+	background: url("https://i.imgur.com/O4haWzv.jpg")
+	  no-repeat fixed  left center #FFFFFF;
+	  text-align: center;
+	  background-color: #151515;
+
+}
+.display-1{
+	color: #FFFFFF;
+}
+.curr{
+	width: center;
+	height: center;
+	text-align: center;
+	background: #A4A4A4;
+	
+
+}
+.t2{
+	color: #FFFFFF;
+}
+.list{
+	
+}
+
+.form-group{
+	font-style: normal;
+	font-family: sans-serif;
+}
+.form-control{
+	width: center;
+}
+.titulo{
+	width: auto;
+	height: auto;
+}
